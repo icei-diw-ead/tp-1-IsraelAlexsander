@@ -3,12 +3,12 @@
 
 ## Informações Gerais
 
-Nome:
-Matricula:
+Nome: Israel Alexsander Vilela de Andrade
+Matricula: 726143
 
 ## Tela de inspeção com navegador
 
-`<Coloque aqui o print da tela de inspeção do seu navegador>`
+![Tela de inspencão do navegador] (images/inspecao.png)
 
 
 
