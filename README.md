@@ -8,7 +8,7 @@ Matricula: 726143
 
 ## Tela de inspeção com navegador
 
-![Tela de inspencão do navegador] (images/inspecao.png)
+![Tela de inspencão do navegador](images/inspecao.png)
 
 
 
